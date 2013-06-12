@@ -9,5 +9,5 @@
   "dependencies": {
 
   },
-  "main": "backbone.js"
+  "main": "index.js"
 }
