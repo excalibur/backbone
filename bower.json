@@ -1,0 +1,13 @@
+{
+  "name": "backbone",
+  "description": "bower component",
+  "version": "1.0.0",
+  "keywords": [
+    "backbone"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+
+  },
+  "main": "backbone.js"
+}
